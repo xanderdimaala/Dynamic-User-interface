@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding:0;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(229, 210, 181);
+}
+
+body{
+    background-color: rgba(30, 20, 20, 3);
+}
+
+/* Header Styles */
+#HeaderContainer> h1{
+    font-size: large;
+    font-weight: bold;
+    color: rgb(225, 196, 34);
+}
+#HeaderContainer> small{
+    font-size: small;
+    font-weight: lighter;
+    color: rgb(10, 3, 2);
+}
+#HeaderContainer{
+    margin: 30px;
+    padding: 20px;
+    box-shadow: 1px 2px rgb(0, 0, 1);
+    border-radius: 10px;
+    text-align: center;
+    background-color: bisque;
+}
+
+#formContaine{
+    margin: 30px;
+    padding: 20px;
+    box-shadow: 1px px rgb(0, 0, 1);
+    border-radius: 10px;
+    text-align: center;
+    background-color: bisque;
+}
